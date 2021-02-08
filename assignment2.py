@@ -1,4 +1,4 @@
 #! python3
 
-fname="Mr."
+fname="Mr"
 lname="Yang"
